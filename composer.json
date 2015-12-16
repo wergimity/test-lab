@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^5.1",
+    "squizlabs/php_codesniffer": "*",
+    "phpunit/phpunit-skeleton-generator": "^2.0"
+  }
+}
